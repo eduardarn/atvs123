@@ -1,0 +1,13 @@
+C:\projetos\ams\1ano\semestre2\salaaula\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.exe
+C:\projetos\ams\1ano\semestre2\salaaula\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.deps.json
+C:\projetos\ams\1ano\semestre2\salaaula\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.runtimeconfig.json
+C:\projetos\ams\1ano\semestre2\salaaula\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.runtimeconfig.dev.json
+C:\projetos\ams\1ano\semestre2\salaaula\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.dll
+C:\projetos\ams\1ano\semestre2\salaaula\exercicio3\bin\Debug\netcoreapp3.1\exercicio3.pdb
+C:\projetos\ams\1ano\semestre2\salaaula\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.csprojAssemblyReference.cache
+C:\projetos\ams\1ano\semestre2\salaaula\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\semestre2\salaaula\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.AssemblyInfo.cs
+C:\projetos\ams\1ano\semestre2\salaaula\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\semestre2\salaaula\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.dll
+C:\projetos\ams\1ano\semestre2\salaaula\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.pdb
+C:\projetos\ams\1ano\semestre2\salaaula\exercicio3\obj\Debug\netcoreapp3.1\exercicio3.genruntimeconfig.cache
